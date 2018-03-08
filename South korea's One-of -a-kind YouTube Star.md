@@ -2,7 +2,7 @@
 
 >One of South Korea's most popular Internet **celebrities** is old enough to your grandmother.
 
-Ths **rise** of YouTube has created many young **vlogger** that show of their **skills**, give fashion **advice**, or talk about life. However, few older people have joined in share their **opinions**. **Thankfully**, a South Korean Woman name Park Mar-rye is an **exception**. This 70-year-old grandmother has **hundreds** of thousands of fans on her YouTube channel.
+The **rise** of YouTube has created many young **vlogger** that show of their **skills**, give fashion **advice**, or talk about life. However, few older people have joined in share their **opinions**. **Thankfully**, a South Korean Woman name Park Mar-rye is an **exception**. This 70-year-old grandmother has **hundreds** of thousands of fans on her YouTube channel.
 
 
 ---
@@ -10,7 +10,8 @@ Ths **rise** of YouTube has created many young **vlogger** that show of their **
 
 **rise** [raɪz] 上升；(n.)上升，高地，增加
 
-**vlogger**  影音部落客
+**vlogger**  影音部落客 video blogger
+Kotecki, is a vlogger - or video blogger
 
 **skills** ['skɪls] 技能；(n.)技能，本領
 
