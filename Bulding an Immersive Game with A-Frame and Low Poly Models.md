@@ -1,8 +1,11 @@
 #Bulding an **Immersive** Game with A-Frame and Low **Poly** Models
 
-In this **tutorial**, Josh Marinacci shows you how to build a simple but immersive game with A-Frame and **medieval** models from Sketchfab -- Not just the basic **interaction**, but also adding and positioning 3D models, **programmatically** building a **landscape**, adding sounds and lighting to make the player feel **immersed** in the **environment**, and finally interaction tweaks for different form **factors**.
+In this **tutorial**, Josh Marinacci shows you how to build a simple but immersive game with A-Frame and **medieval** models from Sketchfab -- Not just the basic **interaction**, but also adding and positioning 3D models, **programmatically** building a **landscape**, adding sounds and lighting to make the player feel **immersed** in the **environment**, and finally interaction **tweaks** for different form **factors**.
+
+Article link:[Building an Immersive Game with A-Frame and Low Poly Models](https://hacks.mozilla.org/2018/03/immersive-aframe-low-poly/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar8-2018)
 
 ---
+
 **Immersive** 身臨其境；(adj.)擬真的，沉浸式的，沉浸感的，增加沉浸感的
 
 **Poly** ['pɑli] 聚；(n.)polytechnic的縮寫）工藝專科學校，科技學校，工業學校(或大學)；(adj.)（polyester的縮寫）聚酯的
@@ -26,3 +29,4 @@ He should push harder on some innovative ways to tweak the welfare system.
 
 **factors** ['fæktɚz] 因子；(n.)因素，要素，[物] 因數，代理人；(vt.)把…作爲因素計入，代理經營，把…分解成；(vi.)做代理商
 While wet conditions have been cited as a contributing factor in the shaky landing, it's still too early to know what went wrong, said Armour.
+

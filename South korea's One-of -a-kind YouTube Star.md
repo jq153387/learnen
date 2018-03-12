@@ -4,7 +4,7 @@
 
 The **rise** of YouTube has created many young **vlogger** that show of their **skills**, give fashion **advice**, or talk about life. However, few older people have joined in share their **opinions**. **Thankfully**, a South Korean Woman name Park Mar-rye is an **exception**. This 70-year-old grandmother has **hundreds** of thousands of fans on her YouTube channel.
 
-
+Park started her channel after her granddaughter **suggested** that making videos would help her keep her memories **sharp**. Her videos are about her life and what it's like to grow old. Unlike many younger YouTubers Who try to always look perfect, Park isn't afraid to show off her **wrinkles** when she does a make-up video. She also makes videos giving adivce about life or sharing of her **experiences**.
 ---
 **celebrities** [sə'lɛbrəti] 名人；(n.)名人，名聲 名人；(n.)名人，名聲
 
@@ -27,3 +27,11 @@ Thankfully, we bought the house before the price went very high.
 慶幸的是，我們在房價大漲之前就買下了這棟房子。
 
 **exception** [ɪk'sɛpʃən] 例外；(n.)例外，異議
+
+**suggest** [sə'dʒɛst] 建議；(vt.)提議，啓發，使人想起
+
+**sharp** [ʃɑrp] 尖銳；(adj.)急劇的，鋒利的，強烈的
+
+**wrinkle** ['rɪŋklz] 皺紋；(n.)皺紋
+
+**experiences** [ɪk'spɪrɪənsɪz] 經驗；(n.)經歷（experience的複數）；(v.)經歷，體驗到（experience的三單形式）
