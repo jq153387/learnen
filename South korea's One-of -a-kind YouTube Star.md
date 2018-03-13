@@ -5,6 +5,8 @@
 The **rise** of YouTube has created many young **vlogger** that show of their **skills**, give fashion **advice**, or talk about life. However, few older people have joined in share their **opinions**. **Thankfully**, a South Korean Woman name Park Mar-rye is an **exception**. This 70-year-old grandmother has **hundreds** of thousands of fans on her YouTube channel.
 
 Park started her channel after her granddaughter **suggested** that making videos would help her keep her memories **sharp**. Her videos are about her life and what it's like to grow old. Unlike many younger YouTubers Who try to always look perfect, Park isn't afraid to show off her **wrinkles** when she does a make-up video. She also makes videos giving adivce about life or sharing of her **experiences**.
+
+Young people enjoy watching Park because she is not **fake** or jsut trying to become famous. They also enjoy seeing what life is like through the eyes of an older person. Park has thanked YouTube for giving new **meaning** to her life. She said that before Youtube she felt like, "Since I'm 70, my life is over." Now, she believes that "life start at 71."
 ---
 **celebrities** [sə'lɛbrəti] 名人；(n.)名人，名聲 名人；(n.)名人，名聲
 
@@ -35,3 +37,7 @@ Thankfully, we bought the house before the price went very high.
 **wrinkle** ['rɪŋklz] 皺紋；(n.)皺紋
 
 **experiences** [ɪk'spɪrɪənsɪz] 經驗；(n.)經歷（experience的複數）；(v.)經歷，體驗到（experience的三單形式）
+
+**fake** [feɪk] 假；(adj.)僞造的
+
+**meaning** ['minɪŋ] 含義；(n.)意義，含義，意圖
