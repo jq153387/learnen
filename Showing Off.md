@@ -6,18 +6,18 @@ Many people **are fond of** showing off. They always **insist on** **footing the
 
 ---
 
-**be fond of...** 喜歡 **fond** [fɑnd] 喜歡；(adj.)喜歡的，溫柔的，寵愛的
-My mother is not only fond of cooking; she's also a wonderful cool.
-我媽媽不只喜歡烹飪，他還是很棒的廚師。
+**be fond of...** 喜歡 **fond** [fɑnd] 喜歡；(adj.)喜歡的，溫柔的，寵愛的    
+My mother is not only fond of cooking; she's also a wonderful cool.    
+我媽媽不只喜歡烹飪，他還是很棒的廚師。    
 
-**insist on + 動名詞** 堅持要...
-**insist** [ɪn'sɪst] 咬定；(vi.)堅持；(vt.)堅持
-Whenever I take my son out to dinner, he insists on eating hamburgers.
-每當我帶我兒子外出晚餐時，他總是堅持要吃漢堡。
+**insist on + 動名詞** 堅持要...      
+**insist** [ɪn'sɪst] 咬定；(vi.)堅持；(vt.)堅持        
+Whenever I take my son out to dinner, he insists on eating hamburgers.   
+每當我帶我兒子外出晚餐時，他總是堅持要吃漢堡。   
 
-**foot the bill** 付帳 
-= pay the bill
-He didn't have enough money to foot the bill.
+**foot the bill** 付帳    
+= pay the bill   
+He didn't have enough money to foot the bill.   
 他沒有足夠的錢付帳。
 
 **impress + 人 + with + 事物** 以某事物使人印象深刻
@@ -26,8 +26,8 @@ Bob impressed us with his knowledge of world history.
 Bob對世界史的知識使我們印象深刻。
 
 **wealth** [wɛlθ] 財富；(n.)財富，大量，富有
-The king has great wealth.
-這個國王擁有大筆的財富。
+The king has great wealth.    
+這個國王擁有大筆的財富。   
 
 **seem to + 原形動詞**　似乎...
 **seem** [sim] 似乎；(vi.)似乎，像是，裝作
