@@ -7,6 +7,7 @@ The **rise** of YouTube has created many young **vlogger** that show of their **
 Park started her channel after her granddaughter **suggested** that making videos would help her keep her memories **sharp**. Her videos are about her life and what it's like to grow old. Unlike many younger YouTubers Who try to always look perfect, Park isn't afraid to show off her **wrinkles** when she does a make-up video. She also makes videos giving adivce about life or sharing of her **experiences**.
 
 Young people enjoy watching Park because she is not **fake** or jsut trying to become famous. They also enjoy seeing what life is like through the eyes of an older person. Park has thanked YouTube for giving new **meaning** to her life. She said that before Youtube she felt like, "Since I'm 70, my life is over." Now, she believes that "life start at 71."
+
 ---
 **celebrities** [sə'lɛbrəti] 名人；(n.)名人，名聲 名人；(n.)名人，名聲
 
