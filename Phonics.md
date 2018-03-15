@@ -1,4 +1,8 @@
+#英文字母a~z自然發音
+
 Aa [æ]&emsp;Bb [b]&emsp;Cc [k]&emsp;Dd [d]&emsp;Ee [ɛ]&emsp;Ff [f]&emsp;Gg [ɡ]&emsp;Hh [h]&emsp;Ii [ɪ]&emsp;Jj [dʒ]&emsp;Kk [k]&emsp;Ll [l]&emsp;Mm [m]&emsp;Nn [n]&emsp;Oo [ɑ]&emsp;Pp [p]&emsp;Qq [kw]&emsp;Rr [r]&emsp;Ss [s]&emsp;Tt [t]&emsp;Uu [ʌ]&emsp;Vv [v]&emsp;Ww [w]&emsp;Xx [ks]&emsp;Yy [ɪ]&emsp;Zz [z]
+
+---
 
 ##Aa [æ]
 
