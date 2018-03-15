@@ -41,3 +41,5 @@ Thankfully, we bought the house before the price went very high.
 **fake** [feɪk] 假；(adj.)僞造的
 
 **meaning** ['minɪŋ] 含義；(n.)意義，含義，意圖
+
+文章來源:生活電子報3月號 - 南韓奶奶的 YouTube 異想世界
