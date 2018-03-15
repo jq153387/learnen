@@ -45,3 +45,5 @@ Instead of riding bicycles, let's go for a walks.
 **themselves**　[ðɛm'sɛlvz]　他們自己；(pron.)他們自己，他們親自   
 Don't be nervous about your interview; just be yourself and you'll do fine.   
 別擔心你的面試，你只要表現出真實的自我就會做得很好。
+
+版權所有:常春藤英語從頭學初級美語上冊

@@ -20,3 +20,5 @@ Einstein was an exclusive theorist who showed no interest in the practice of his
 
 **fairly** ['fɛrli] (adv.)相當地，公平地，簡直   
 What's unusual about the electronics payment suit is that it seems to be a fairly blatant case of China ignoring its WTO obligations.
+
+版權所有:常春藤英語從頭學初級美語上冊
