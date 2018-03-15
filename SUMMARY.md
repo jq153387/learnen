@@ -12,4 +12,5 @@
 * [South korea's One-of -a-kind YouTube Star](South korea's One-of -a-kind YouTube Star.md)
 * [Bulding an Immersive Game with A-Frame and Low Poly Models](Bulding an Immersive Game with A-Frame and Low Poly Models.md)
 * [Scene 1 早上起床的時候](scene1.md)
+* [自然發音](Phonics.md)
 
