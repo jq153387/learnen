@@ -14,8 +14,14 @@ dad [dæd] / 爸爸&emsp;&emsp;pad [pæd] / 護墊&emsp;&emsp;mat [mæt] / 腳�
 ##Bb [b]  
 back [bæk]
 
+back [bæk] / 回來的&emsp;&emsp;bark [bɑrk] / 狗吠&emsp;&emsp;bat [bæt] / 球棒     
+barn [bɑrn] 穀倉&emsp;&emsp;bank [bæŋk] / 銀行&emsp;&emsp;basket ['bæskɪt] / 籃子
+
 ##Cc [k]   
 cat [kæt] / 貓 
+
+cat [kæt] / 貓&emsp;&emsp;card [kɑrd] / 卡片&emsp;&emsp;cap [kæp] / 鴨舌帽    
+cart [kɑrt] / 手推車&emsp;&emsp;candy ['kændi:] / 糖果&emsp;&emsp;candle ['kændl] / 蠟燭
 
 ##Dd [d]
 dam [dæm] / 水壩
