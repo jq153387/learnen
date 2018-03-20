@@ -8,26 +8,27 @@ Aa [æ]&emsp;Bb [b]&emsp;Cc [k]&emsp;Dd [d]&emsp;Ee [ɛ]&emsp;Ff [f]&emsp;Gg [ɡ
 
 規則:單字字尾無e時a常發[æ]
 
-bad [bæd] / 壞的&emsp;&emsp;mad [mæd] / 非常生氣&emsp;&emsp;sad [sæd] / 傷心    
-dad [dæd] / 爸爸&emsp;&emsp;pad [pæd] / 護墊&emsp;&emsp;mat [mæt] / 腳踏墊
+bad 壞的 [bæd]&emsp;&emsp;mad 非常生氣 [mæd]&emsp;&emsp;sad 傷心 [sæd]        
+dad 爸爸 [dæd]&emsp;&emsp;pad 護墊 [pæd] &emsp;&emsp;mat 腳踏墊 [mæt]
 
 ##Bb [b]  
-back [bæk]
 
-back [bæk] / 回來的&emsp;&emsp;bark [bɑrk] / 狗吠&emsp;&emsp;bat [bæt] / 球棒     
-barn [bɑrn] 穀倉&emsp;&emsp;bank [bæŋk] / 銀行&emsp;&emsp;basket ['bæskɪt] / 籃子
+back 回來的 [bæk]&emsp;&emsp;bark 狗吠 [bɑrk] &emsp;&emsp;bat 球棒 [bæt]       
+barn 穀倉 [bɑrn]&emsp;&emsp;bank 銀行 [bæŋk] &emsp;&emsp;basket 籃子 ['bæskɪt] 
 
 ##Cc [k]   
-cat [kæt] / 貓 
 
-cat [kæt] / 貓&emsp;&emsp;card [kɑrd] / 卡片&emsp;&emsp;cap [kæp] / 鴨舌帽    
-cart [kɑrt] / 手推車&emsp;&emsp;candy ['kændi:] / 糖果&emsp;&emsp;candle ['kændl] / 蠟燭
+cat 貓 [kæt]&emsp;&emsp;card 卡片 [kɑrd]&emsp;&emsp;cap 鴨舌帽 [kæp]        
+cart 手推車 [kɑrt]&emsp;&emsp;candy 糖果 ['kændi:]&emsp;&emsp;candle 蠟燭 ['kændl]
 
 ##Dd [d]
-dam [dæm] / 水壩
 
+dam 水壩 [dæm]&emsp;&emsp;dark 黑暗 [dɑrk] &emsp;&emsp;damp 潮濕 [dæmp]          
+dart 飛鏢 [dɑrt]&emsp;&emsp;desk 書桌 [dɛsk]&emsp;&emsp;dentist 牙醫 ['dɛntɪst]
+ 
 ##Ee [ɛ]
-bed [bɛd] / 床
+bed 床 [bɛd]&emsp;&emsp;red 紅色 [rɛd]&emsp;&emsp;net 網子 [nɛt]        
+wet 濕的 [wɛt]&emsp;&emsp;bend 彎曲 [bɛnd]&emsp;&emsp;bench 板凳 [bɛntʃ]
 
 ##Ff [f]
 fee [fi] / 費用
