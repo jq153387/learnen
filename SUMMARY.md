@@ -14,5 +14,7 @@
 * [My Pacific Quest](my pacific quest.md)
 * [Scene 1 早上起床的時候](scene1.md)
 * [自然發音](Phonics.md)
+* [每日英文](daily sentence.md)
+
 
 
