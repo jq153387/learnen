@@ -12,6 +12,7 @@
 * [South korea's One-of -a-kind YouTube Star](South korea's One-of -a-kind YouTube Star.md)
 * [Bulding an Immersive Game with A-Frame and Low Poly Models](Bulding an Immersive Game with A-Frame and Low Poly Models.md)
 * [My Pacific Quest](my pacific quest.md)
+* [The Ice Cream Angel](The Ice Cream Angel.md)
 * [Scene 1 早上起床的時候](scene1.md)
 * [自然發音](Phonics.md)
 * [每日英文](daily sentence.md)
