@@ -81,3 +81,39 @@ B:I stayed up all night. 我整晚都沒睡
 **bloodshot** ['blʌdʃɑt] 血絲；(adj.)充血的
 
 **stay up** 清醒不睡、熬夜
+
+##2 孩子們還在睡嗎?
+
+Brush your teeth. 記得刷牙
+
+Did you wash your face? 你洗臉了嗎?
+
+**Comb** your hair. 梳理你的頭髮
+
+Make your bed. 整理你的床鋪
+
+I have to **shave**. 不刮鬍子不行了
+
+Go get the newspaper. 幫我拿報紙過來
+
+Where are my contacts? 我的隱形眼鏡在哪裡?
+
+I have to put in my **contact lenses**. 我不戴隱形眼鏡不行
+
+###Conversation
+
+Where are my contacts? 我的隱形眼鏡在哪裡?    
+I don't know. 我不知道    
+
+Go get the newspaper. 幫我拿報紙過來    
+Sure. 好   
+
+###Words
+
+**contact lenses** ['lensɪz] 隱形眼鏡
+
+**shave** [ʃev] 刮鬍子；(vi.)剃鬚；(vt.)剃，修剪，切成薄片，掠；(n.)刮臉，修面，<口>僥倖逃過，剃刀
+
+**Comb** [kom] 梳；(n.)梳子，蜂巢，雞冠；(vt.)梳頭髮，梳毛；(vi.)（浪）涌起
+
+
