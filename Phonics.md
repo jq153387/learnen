@@ -87,8 +87,8 @@ will [wɪl] / 將要
 ##Xx [ks]
 ax [æks] / 斧頭
 
-##Yy [ɪ]
-baby [bebɪ] / 嬰兒
+##Yy [j]
+you [ju] / 你
 
 ##Zz [z]
 zip [zɪp] / 拉上
