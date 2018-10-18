@@ -17,6 +17,7 @@
 * [自然發音](Phonics.md)
 * [每日英文](daily sentence.md)
 * [The Adventure of the Blue Carbuncle](The Adventure of the Blue Carbuncle.md)
+* [The Kite-maker](kitemaker.md)
 
 
 
