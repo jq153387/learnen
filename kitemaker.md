@@ -1,7 +1,5 @@
 # THE KITE-MAKER
 
-
-
 If war divides your country, village from village, family from family, it is safer to stay at home and not travel anywhere. Only a bird can fly freely over war-torn countries.
 
 Or a kite - a toy made of brightly painted paper and wood. It climbs high into the sky, turning and dancing on the wind, as light as the air, as free as a bird...
